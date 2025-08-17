@@ -1,7 +1,7 @@
-[image ult](https://github.com/lazytechno/LazY-Software-Tweks/blob/main/Main%20Menu.jpg?raw=true)
-[image ult](https://github.com/lazytechno/LazY-Software-Tweks/blob/main/Intall%20Menu.jpg?raw=true)
-[image ult](https://github.com/lazytechno/LazY-Software-Tweks/blob/main/Tweaks%20Menu.jpg?raw=true)
-[image ult](https://github.com/lazytechno/LazY-Software-Tweks/blob/main/Features%20Menu.jpg?raw=true)
+![image ult](https://github.com/lazytechno/LazY-Software-Tweks/blob/main/Main%20Menu.jpg?raw=true)
+![image ult](https://github.com/lazytechno/LazY-Software-Tweks/blob/main/Intall%20Menu.jpg?raw=true)
+![image ult](https://github.com/lazytechno/LazY-Software-Tweks/blob/main/Tweaks%20Menu.jpg?raw=true)
+![image ult](https://github.com/lazytechno/LazY-Software-Tweks/blob/main/Features%20Menu.jpg?raw=true)
 
 Lazy Tool – Windows Tweak Suite
 Lazy Tool is a modular, menu-driven batch utility designed for advanced Windows users who want full control over customization, feature toggling, and software installation. Built with reversibility, error handling, and a clean user interface, it offers a reliable way to optimize and personalize your system.
